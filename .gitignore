@@ -1,0 +1,7 @@
+# Output folder
+output/
+
+# Data files
+*.csv
+*.xlsx
+*.pkl
