@@ -1,0 +1,9 @@
+[\s\d-]*chapter[\s\d]*$
+[\s\d-]*chapter[\s_]*tmp$
+[\s\d-]*chapter[\s\d]*extra$
+[\s\d-]*chapters$
+read\s*online[\s_]*chapter[\s\d]*$
+read\s*the\s*chapter$
+[\s\d]+$
+[\s\d-]*volume[\s\d]*$
+oneshot

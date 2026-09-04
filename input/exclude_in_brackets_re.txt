@@ -1,0 +1,27 @@
+^c[0-9]+
+.*comic.*
+^sc[0-9]+
+.vol[.].
+.edit by.
+.translat.
+.scans.
+.vanilla.
+.reupload.
+.* tl$
+.*censored.*
+.*doujinshi.*
+^comifuro
+^ac[0-9]
+^eng[.].
+^.$
+.[.]com.*
+^ff[0-9]*
+.*doujinsai.*
+^spark[0-9]+
+^puniket\s*[0-9]+
+^colored by.*
+[0-9]+[.][0-9]+
+^edit by.*
+^d[0-9]+
+[\w]-scans$
+part\s*[0-9]+
